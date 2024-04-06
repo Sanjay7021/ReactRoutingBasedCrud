@@ -1,0 +1,14 @@
+
+/* Style the header */
+.header {
+    padding: 80px;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+  }
+  
+  /* Increase the font size of the h1 element */
+  .header h1 {
+    font-size: 40px;
+  }
+  
